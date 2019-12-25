@@ -13,5 +13,9 @@ namespace GitTestProj.Controllers
         {
             return View();
         }
+        public ActionResult saved()
+        {
+            return View();
+        }
     }
 }
